@@ -1,12 +1,12 @@
-# Evmos - ERC721 PFP
+# Evmos - Ticket Sale (1155)
 
-This is a basic example of a PFP contract with an UI to interact with.
+This is a basic example of ticket sale contract with an UI to interact with.
 
 Folders are divided in:
 - `contract`: which contains all contract files
 - `ui`: which contains user interface
 
-Contract is live here: https://pfp.ownlabs.dev and the contract can be accessed at `0xc2B38b330Aa27d7ff8dc7681946F7E9B972b1536`.
+Contract is live here: https://tickets.ownlabs.dev and the contract can be accessed at `0xC600f05Cb4e8d6931b72Eb24480a9B3874474d84`.
 
 ## Build the project
 
