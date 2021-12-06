@@ -1,0 +1,12 @@
+{
+    "network": "evmos",
+    "contract_address": "THIS_WILL_BE_AUTOMATIC_FILLED_LEAVE_IT_BLANK",
+    "owner_mnemonic": "PUT_MNEMONIC_HERE",
+    "owner_address": "PUT_FIRST_ADDRESS_HERE",
+    "contract": {
+        "name": "EvmosPFP",
+        "ticker": "EVPFP",
+        "contractIPFS": "https://ipfs.io/ipfs/-"
+    },
+    "provider": "https://ethereum.rpc.evmos.dev"
+}
