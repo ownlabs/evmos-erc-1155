@@ -3,7 +3,7 @@
     <b-navbar>
       <template #brand>
         <b-navbar-item tag="router-link" :to="{ path: '/' }">
-          <b>Evmos - PFP</b>
+          <b>Evmos - Ticket Sale</b>
         </b-navbar-item>
       </template>
 
