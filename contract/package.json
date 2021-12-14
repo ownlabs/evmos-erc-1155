@@ -1,7 +1,7 @@
 {
-    "name": "no-nft-erc721",
+    "name": "evmos-erc-1155",
     "version": "1.0.5",
-    "description": "This isn't an ERC-721",
+    "description": "Collectible on Evmos",
     "main": "index.js",
     "scripts": {
         "extract-abi": "truffle-export-abi -d ./build/contracts/ -o ./abi.json -v",
